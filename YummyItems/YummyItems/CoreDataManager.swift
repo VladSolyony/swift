@@ -2,8 +2,8 @@
 //  CoreDataManager.swift
 //  YummyItems
 //
-//  Created by Kittu Lalli on 13/05/20.
-//  Copyright © 2020 Kittu Lalli. All rights reserved.
+//
+//  Created by macOS Catalina on 19.12.2022.
 //
 
 import UIKit

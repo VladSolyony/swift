@@ -2,8 +2,8 @@
 //  Extensions.swift
 //  OrderMaking
 //
-//  Created by Kittu Lalli on 29/04/20.
-//  Copyright © 2020 Kittu Lalli. All rights reserved.
+//
+//  Created by macOS Catalina on 19.12.2022.
 //
 
 import Foundation
